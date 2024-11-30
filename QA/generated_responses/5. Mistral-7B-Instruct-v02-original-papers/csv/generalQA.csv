@@ -1,0 +1,26 @@
+What is Newton's first law of motion?,How does the force of gravity between two objects change with distance?,What is the principle of conservation of energy?,Explain how a prism splits white light into a spectrum of colors.,What is quantum physics?,What is a neural network?,What function do activation functions serve in neural networks?,What is the difference between supervised and unsupervised learning in machine learning?,Can you explain what overfitting means in the context of training a neural network?,What is the significance of the learning rate in training neural networks?
+" Newton's First Law of Motion, also known as the Law of Inertia, states that an object will
+remain at rest or in uniform motion in a straight line unless acted upon by a net external force."," The force of gravity between two objects decreases with
+increasing distance, following an inverse square law. This means that the force is proportional to the product of the masses of the two objects and
+inversely proportional to the square of the distance between them."," The principle of conservation of energy states that energy cannot be created or
+destroyed in an isolated system. It is a fundamental law of physics that applies to all forms of energy, including potential energy, kinetic energy,
+thermal energy, electrical energy, and radiation energy. This principle is a direct consequence of the general covariance of the theory of relativity."," A prism separates white light into its component colors based on
+the refractive index of each wavelength. As light enters the prism, it slows down and bends at different angles depending on its wavelength. Shorter
+wavelengths (blue and violet light) bend more than longer wavelengths (red and orange light), causing them to spread out further when exiting the
+prism, resulting in a rainbow-like spectrum."," Quantum physics is a branch of physics that describes natural phenomena at the subatomic level using the
+principles of quantum mechanics. It is one of the most accurate theories ever developed to describe our universe and has led to numerous technological
+advancements, including superfast quantum computers, unbreakable quantum cryptography, and ultrasensitive quantum sensors. Despite significant
+progress in understanding quantum mechanics, there are still fundamental questions about its foundations that remain open."," A neural network is a type of machine learning model inspired by the human brain, consisting of
+interconnected nodes or neurons that process and transmit information using activations functions."," Activation functions introduce non-linearity in neural networks,
+allowing them to model complex relationships between inputs and outputs beyond simple linear combinations. They introduce non-linearity by applying a
+non-linear function to the weighted sum of inputs. Examples include ReLU, sigmoid, tanh, and Swish functions."," Supervised learning involves training a
+model on labeled data, meaning the input features come with corresponding output labels. The goal is for the model to learn the mapping between inputs
+and outputs. Unsupervised learning, on the other hand, deals with unlabeled data, where there are no output labels provided. Instead, the objective is
+to find patterns or relationships within the data itself without any explicit guidance."," Overfitting refers to a neural network that
+learns the training data too well, including the noise and irrelevant details, to the point that it performs poorly on new, unseen data. This results
+in poor generalization ability and reduced accuracy on test data. Overfitting can be prevented through techniques such as dropout, early stopping, and
+regularization."," The learning rate is a crucial hyperparameter in training
+neural networks that determines the size of the step taken during the optimization process. A larger learning rate leads to faster convergence but may
+result in overshooting the optimal solution, while a smaller learning rate ensures slower convergence but provides more accurate updates. Finding the
+right learning rate can significantly impact the performance of the model. In the given context, the authors performed learning rate sweeps to
+determine the best learning rates for their models and used a cosine decay schedule with a long warmup period."

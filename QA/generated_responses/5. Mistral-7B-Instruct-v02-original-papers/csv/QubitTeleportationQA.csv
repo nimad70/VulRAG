@@ -1,0 +1,36 @@
+What are the main components used in quantum networks for teleportation?,How is entanglement established between distant nodes in a quantum network?,What role does the Bell-state measurement (BSM) play in quantum teleportation?,Why is quantum teleportation considered advantageous over traditional communication methods in quantum networks?,What innovations have improved the fidelity and reliability of quantum teleportation?,What challenges are associated with extending quantum teleportation beyond directly connected nodes?,How do memory qubits contribute to the process of quantum teleportation in a network?,What are potential future applications of quantum teleportation in quantum networks?,How does real-time feed-forward impact the process of quantum teleportation?,What technical advancements are needed to realize efficient quantum teleportation between non-neighbouring nodes?
+" The main components used in quantum networks for
+teleportation include optically connected nodes, a teleporter in the form of a pre-shared entangled state, and a memory qubit for storing the
+teleported qubit state. Additionally, there are key innovations such as improved qubit readout procedures, active memory qubit protection during
+entanglement generation, and tailored heralding to reduce remote entanglement infidelities."," Entanglement is established between distant nodes in a
+quantum network through a process called entanglement swapping, mediated by a third node. This involves first generating entanglement between
+neighboring nodes using a single-photon protocol, then performing an entanglement swapping protocol on the middle node to establish entanglement
+between the distant nodes."," The Bell-state measurement (BSM) plays a crucial role
+in quantum teleportation as it allows the receiver to determine the state of the qubit being teleported based on their measurement results and the
+shared entangled state between the sender and receiver. By performing a joint BSM on the sender's part of the entangled state and the qubit state to
+be teleported, the state is recovered on the receiving node through a gate operation conditioned on the BSM outcome. This process enables the quantum
+information to be transferred without being affected by losses in the connecting channels or intermediate nodes."," Quantum
+teleportation is considered advantageous over traditional communication methods in quantum networks because it allows for the reliable transfer of
+quantum information between distant nodes without the need for physical carriers, making it insensitive to loss in connecting photonic channels and on
+intermediate nodes. It also enables unconditional teleportation through the use of a deterministic Bell-state measurement and real-time feed-forward."," The innovations that have improved the fidelity
+and reliability of quantum teleportation include improvements in memory qubit readout and protection during entanglement generation, real-time
+rejection of false heralding signals, and the development of an improved optical interface for the communication qubit. Additionally, further
+improvements such as integrating multi-pulse memory decoupling sequences and extending current schemes for use in deployed fiber networks are planned
+for future work."," The main challenges associated
+with extending quantum teleportation beyond directly connected nodes include the demanding requirements on the pre-shared remote entanglement, joint
+qubit readout, and coherence times."," Memory qubits play a crucial role in the
+process of quantum teleportation in a network by serving as a storage medium for the entangled state between neighboring nodes. During the
+teleportation protocol, the input qubit state is prepared on one of the memory qubits, which is then teleported to another node through the exchange
+of classical information and local operations. Additionally, memory qubits must be reliably preserved during the teleportation process to maintain the
+entangled state between nodes. This is achieved through techniques such as error correction and active coherence protection from the spin bath."," Potential future applications of quantum
+teleportation in quantum networks include executing and testing quantum algorithms and protocols through platform-independent control software,
+improving phase stabilization, and extending current schemes for use in deployed fiber networks. Additionally, quantum teleportation can enable more
+complex protocols and applications."," Real-time feed-forward enables unconditional quantum
+teleportation by allowing state transfer each time a qubit state is inserted into the teleporter. However, it requires perfect entanglement, Bell
+state measurements, and coherence times for enabling real-time feed-forward, which has prevented its realization beyond directly connected stationary
+network nodes so far. The presence of various error sources such as imperfect Bell states, dephasing, depolarizing noise, and readout errors also
+affect the teleportation process."," The technical
+advancements required to realize efficient quantum teleportation between non-neighbouring nodes include improvements in the generation and maintenance
+of remote entanglement, joint qubit readout, and coherence times. Additionally, real-time rejection of false heralding signals and tailored heralding
+are necessary to reduce remote entanglement infidelities. Innovations in qubit readout procedures, active memory qubit protection during entanglement
+generation, and the use of a deterministic Bell state measurement (BSM) combined with real-time feed-forward enable unconditional teleportation."

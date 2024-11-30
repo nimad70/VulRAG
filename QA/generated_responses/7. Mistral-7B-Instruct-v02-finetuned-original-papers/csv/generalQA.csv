@@ -1,0 +1,30 @@
+What is Newton's first law of motion?,How does the force of gravity between two objects change with distance?,What is the principle of conservation of energy?,Explain how a prism splits white light into a spectrum of colors.,What is quantum physics?,What is a neural network?,What function do activation functions serve in neural networks?,What is the difference between supervised and unsupervised learning in machine learning?,Can you explain what overfitting means in the context of training a neural network?,What is the significance of the learning rate in training neural networks?
+" Newton's first law of motion, also known as the law of inertia, states that every body stays at
+rest or moves at a constant velocity unless acted upon by a net external force. It is a fundamental principle of classical mechanics."," The force of gravity between two objects decreases with
+increasing distance due to the inverse square law of gravity. This means that the force of gravity between two objects is proportional to the product
+of their masses and inversely proportional to the square of the distance between them."," The principle of conservation of energy states that energy cannot be created or
+destroyed, but can only be transferred from one form to another. It is a fundamental concept in physics and plays a crucial role in understanding the
+behavior of physical systems. In the context of cosmology, the conservation of energy is written in terms of the Friedmann equation and the energy-
+conservation equation, which give the evolution equation for the scale factor of the universe."," Prisms split white light into a spectrum of colors due to
+refraction. White light is made up of different wavelengths, each of which bends differently when it passes through a prism. This causes the
+separation of the different wavelengths, resulting in a rainbow-like spectrum."," Quantum physics is a branch of physics that deals with the behavior of matter and energy at the atomic and
+subatomic level. It is based on the principles of quantum mechanics, which describes the properties of particles and their interactions with each
+other. Some key concepts in quantum physics include wave-particle duality, uncertainty principle, entanglement, and non-local correlations. These
+ideas have led to numerous technological developments, such as quantum computing, quantum cryptography, and quantum sensing. However, there are still
+many fundamental questions about the nature of quantum reality that remain unsolved."," A neural network is a type of machine learning model that is designed to recognize patterns. It consists of
+interconnected nodes called neurons, which process and transmit information. Neural networks are trained on labeled data to learn how to classify new
+examples. They have applications in various fields, including image recognition, speech recognition, and natural language processing."," Activation functions serve several purposes in neural networks. They
+introduce nonlinearity, allowing the network to learn complex patterns. They also control the flow of information within the network, influencing how
+signals propagate through time and interact along different dimensions. Additionally, they can affect the stability and convergence properties of the
+network during training. Popular choices include sigmoid, rectified linear unit (ReLU), leaky ReLU, and their variants."," Supervised learning involves training a
+model on labeled data, while unsupervised learning involves finding patterns or relationships in unlabeled data. Supervised learning requires explicit
+labels, while unsupervised learning relies on implicit features. Supervised learning algorithms include regression, classification, and neural
+networks, while unsupervised learning algorithms include clustering, dimensionality reduction, and anomaly detection. Supervised learning is often
+used for predictive tasks, such as image recognition and speech synthesis, while unsupervised learning is commonly used for exploratory tasks, like
+feature extraction and anomaly detection."," Overfitting refers to a situation where a neural
+network learns the noise in the training data rather than the underlying pattern, leading to poor performance on new data. This can be prevented by
+techniques such as dropout and regularization."," The learning rate is a crucial parameter in training
+neural networks. It determines how quickly the network converges to the optimal solution. A high learning rate can lead to faster convergence but may
+result in overshooting the minimum, while a low learning rate can take longer to find the minimum but may provide better accuracy. Finding the optimal
+learning rate involves a tradeoff between speed and accuracy. In practice, a learning rate schedule is often employed, where the learning rate is
+gradually reduced over time to allow the network to fine-tune its parameters."

@@ -1,0 +1,28 @@
+What is Newton's first law of motion?,How does the force of gravity between two objects change with distance?,What is the principle of conservation of energy?,Explain how a prism splits white light into a spectrum of colors.,What is quantum physics?,What is a neural network?,What function do activation functions serve in neural networks?,What is the difference between supervised and unsupervised learning in machine learning?,Can you explain what overfitting means in the context of training a neural network?,What is the significance of the learning rate in training neural networks?
+" Newton's first law of motion, also known as the law of inertia, states that an object will
+remain at rest or continue moving at a constant velocity in a straight line unless acted upon by a net external force."," The force of gravity between two objects decreases with
+increasing distance, following an inverse square law. This means that the force is proportional to the product of the masses of the two objects and
+inversely proportional to the square of the distance between them."," The principle of conservation of energy states that energy cannot be created or
+destroyed in an isolated system. It is a fundamental law of physics that applies to all forms of energy, including potential energy, kinetic energy,
+thermal energy, electrical energy, and radiation energy. This principle is a direct consequence of the general covariance of the theory of relativity."," A prism separates white light into its component colors based on
+the refractive index of each wavelength. As light enters the prism, it slows down and bends at different angles depending on its wavelength. Shorter
+wavelengths (blue and violet light) bend more than longer wavelengths (red and orange light), causing them to spread out further when exiting the
+prism, resulting in a rainbow-like spectrum."," Quantum physics is a branch of physics that describes natural phenomena at the subatomic level. It is one of
+the most accurate theories ever developed to explain our universe and is the foundation for advanced technologies like quantum computing and
+communication. Despite some ongoing debates about its foundations, the international community continues to work towards shedding light on its
+physical meaning and pushing the boundaries of its application."," A neural network is a type of machine learning model inspired by the human brain, consisting of
+interconnected nodes or neurons that process and transmit information using weights and biases. Neural networks come in various architectures,
+including feed-forward networks, recurrent neural networks (RNN), convolutional neural networks (CNN), and transformer models, among others. They are
+trained using large amounts of labeled data to identify patterns and make predictions based on new inputs."," Activation functions serve the purpose of introducing nonlinearity in
+neural networks, allowing them to learn complex patterns and relationships in data. They introduce nonlinearity by applying an nonlinear function to
+the weighted sum of inputs, outputting a new value that can then be passed through the next layer for further processing."," Supervised learning involves learning from
+labeled data, where each example includes an input and its corresponding output label. The goal is to learn a mapping from inputs to outputs based on
+these examples. Unsupervised learning, on the other hand, deals with unlabeled data, meaning there is no explicit output label provided. Instead, the
+algorithm looks for patterns or structures within the data itself. Common techniques include clustering, dimensionality reduction, and density
+estimation."," Overfitting refers to a neural network that
+learns the training data too well, including its noise and irrelevant details, resulting in poor performance on new, unseen data. This can lead to
+models that memorize the training data rather than generalizing to new inputs. Techniques like dropout and regularization are used to prevent
+overfitting by adding randomness during training and reducing the complexity of the model."," The learning rate is a parameter in optimization
+algorithms used to update the weights in neural networks during training. It determines the size of the weight updates at each iteration, influencing
+how quickly the model converges towards the optimal solution. A high learning rate may cause the model to overshoot the minimum, while a low learning
+rate may lead to slow convergence. Adjusting the learning rate appropriately helps ensure effective training and good model performance."

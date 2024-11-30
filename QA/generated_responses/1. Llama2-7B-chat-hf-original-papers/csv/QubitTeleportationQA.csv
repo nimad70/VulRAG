@@ -1,0 +1,56 @@
+What are the main components used in quantum networks for teleportation?,How is entanglement established between distant nodes in a quantum network?,What role does the Bell-state measurement (BSM) play in quantum teleportation?,Why is quantum teleportation considered advantageous over traditional communication methods in quantum networks?,What innovations have improved the fidelity and reliability of quantum teleportation?,What challenges are associated with extending quantum teleportation beyond directly connected nodes?,How do memory qubits contribute to the process of quantum teleportation in a network?,What are potential future applications of quantum teleportation in quantum networks?,How does real-time feed-forward impact the process of quantum teleportation?,What technical advancements are needed to realize efficient quantum teleportation between non-neighbouring nodes?
+"  Based on the given context, the main components used in
+quantum networks for teleportation are:
+
+1. NV centres (in diamond): Used as communication qubits for teleportation.
+2. Nearby 13C nuclear spins: Used as memory qubits for storing information.
+3. Optical connections: Used to connect the nodes in the quantum network.","  Entanglement is established between distant nodes in a
+quantum network through a process called entanglement swapping. This involves using a middle node, which is already entangled with one of the distant
+nodes, to create a shared entangled state between the other two distant nodes.","  The Bell-state measurement (BSM) plays a crucial role
+in quantum teleportation. In the protocol described in the article, the BSM is used to perform a joint measurement on the sender's part of the
+entangled state and the qubit state to be teleported. The outcome of the BSM is then fed back to the receiver, who applies a gate operation
+conditioned on the BSM outcome to recover the teleported state. The BSM allows for the transfer of quantum information across a lossy network link,
+making it possible to reliably send qubits across long distances.","  Quantum
+teleportation is considered advantageous over traditional communication methods in quantum networks because it allows for the reliable transfer of
+quantum information across lossy network connections without requiring physical transport of the information. This is particularly useful in large-
+scale quantum networks where the number of nodes and connections can be vast, making it impractical to physically transmit the information between all
+nodes. By using quantum teleportation, the information can be transferred through a series of joint Bell-state measurements, allowing for efficient
+and reliable communication across the network.","  The innovations that have improved the
+fidelity and reliability of quantum teleportation include:
+
+* Memory qubit readout and protection during entanglement generation
+* Real-time rejection of false heralding signals
+
+These innovations have enabled the successful preparation of the teleporter and the ability to perform unconditional qubit teleportation between non-
+neighboring nodes in a quantum network.","  The main challenge associated
+with extending quantum teleportation beyond directly connected nodes is the requirement for pre-shared remote entanglement, which is difficult to
+achieve due to the high resource demands and limited scalability of existing protocols. Additionally, joint qubit readout and coherence times become
+increasingly limiting factors as the distance between nodes grows, leading to reduced fidelity and reliability in the teleportation process.","  Memory qubits play a crucial role in the
+process of quantum teleportation in a network. They are used to store the quantum state of the qubit being teleported, allowing it to be transmitted
+accurately across non-neighboring nodes in the network. The memory qubits are entangled with the communication qubit, which is used to generate remote
+entanglement between the neighboring nodes. This entanglement is then used to perform the teleportation protocol, which involves swapping the state of
+the memory qubit with the state of the qubit being teleported. By doing so, the quantum state of the qubit is transferred accurately to the
+destination node, allowing for the successful teleportation of the qubit.","  Future applications of quantum teleportation in
+quantum networks include:
+
+1. Multi-node protocols: Teleportation-based protocols can be used to transmit quantum information between multiple nodes in a quantum network,
+enabling secure communication over long distances.
+2. Distributed quantum computing: Quantum teleportation can be used to distribute quantum information among multiple nodes in a quantum network,
+allowing for distributed quantum computing applications.
+3. Quantum cryptography: Quantum teleportation can be used to enhance the security of quantum cryptographic systems by allowing for the reliable
+transmission of encrypted quantum information between distant nodes.
+4. Quantum metrology: Quantum teleportation can be used to improve the precision of quantum measurements by allowing for the reliable transmission of
+quantum information between distant nodes.
+5. Quantum communication networks: Quantum teleportation can be used to enable secure communication over long distances in quantum communication
+networks, which are essential for various applications such as quantum cryptography and quantum metrology.","  Real-time feed-forward significantly improves the
+process of quantum teleportation by enabling unconditional teleportation. In the absence of feed-forward operations, the teleportation fidelity is
+limited due to errors in the Bell state measurements and other noise sources. However, by applying feed-forward gates in real-time based on the BSM
+outcomes, the errors can be corrected, leading to improved fidelity.","  Technical
+advancements needed to realize efficient quantum teleportation between non-neighboring nodes include:
+
+1. Establishing remote entanglement on the two links between non-neighboring nodes.
+2. Entanglement swapping on the middle node to generate shared entanglement between all three nodes.
+3. Storage of the entangled state in a memory qubit to protect it during the teleportation process.
+4. Key innovations in the qubit readout procedure, including the use of a deterministic BSM, to enable unconditional teleportation.
+5. Active memory qubit protection during entanglement generation to reduce remote entanglement infidelities.
+6. Tailored heralding that reduces remote entanglement infidelities."
