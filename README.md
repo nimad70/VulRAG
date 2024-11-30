@@ -45,19 +45,19 @@ This project is licensed under the [GNU General Public License v3.0](https://git
 
 If you use this repository in your work, please cite it as follows:
 
-```BibTeX```
+```BibTeX
 @thesis{daryabar2023security,
   title={Security in Machine Learning: Exposing LLM Vulnerabilities through Poisoned Vector Databases in RAG-based Systems},
   author={Nima Daryabar},
   institution={University of Padova},
   year={2023}
 }
-
+```
 
 ## Contact
 
 For inquiries or collaboration opportunities, please contact:
 
 - **Name**: Nima Daryabar
-- **Email**: [your-email@example.com](mailto:nima.daryabar@studenti.unipd.it)
+- **Email**: [nima daryabar](mailto:nima.daryabar@studenti.unipd.it)
 - **GitHub**: [nimad70](https://github.com/nimad70)
