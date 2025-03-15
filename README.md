@@ -39,7 +39,7 @@ Large Language Models (LLMs) have significantly advanced natural language proces
 
 ## License
 
-This project is licensed under the [GNU General Public License v3.0](https://github.com/nimad70/VulRAG/blob/main/LICENSE).
+VulRAG: Investigating LLM Vulnerabilities in RAG Systems © 2024 by Nima Daryabar is licensed under CC BY-SA 4.0 
 
 ## Citation
 
